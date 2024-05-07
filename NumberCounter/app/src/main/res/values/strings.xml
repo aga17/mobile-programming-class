@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Counter</string>
+    <string name="number_counter">Number Counter</string>
+    <string name="plus">+</string>
+    <string name="input_the_increment">Input the increment...</string>
+    <string name="reset">reset</string>
+</resources>
